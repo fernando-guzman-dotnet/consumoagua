@@ -1,5 +1,17 @@
 # ConsumoAgua
 
+> ⚠️ **ADVERTENCIA IMPORTANTE** ⚠️
+> 
+> Este proyecto representa una **versión del 2023** que ya **NO ES COMPATIBLE** con IDEs modernos (Visual Studio 2022, .NET 6+, etc.). 
+> 
+> **No se puede compilar ni ejecutar** en entornos de desarrollo actuales.
+> 
+> **Solo sirve para fines demostrativos y de referencia** para entender la arquitectura y funcionalidad del sistema.
+> 
+> Se puede derivar una **versión mejor y más moderna** a partir de este código base, migrando a tecnologías actuales.
+
+---
+
 Sistema de gestión para el consumo de agua potable. Aplicación desarrollada en C# con Windows Forms para la administración de contratos, facturación, cobranza y reportes relacionados con el servicio de agua.
 
 ## Características
