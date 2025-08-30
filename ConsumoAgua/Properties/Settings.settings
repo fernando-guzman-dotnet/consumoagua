@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SAPA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FondoVentanaCaptura" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">149, 190, 190</Value>
+    </Setting>
+    <Setting Name="FondoMenuSuperior" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">47, 49, 49</Value>
+    </Setting>
+    <Setting Name="FondoMenuInferior" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">47, 49, 49</Value>
+    </Setting>
+    <Setting Name="FondoMenuPrincipal" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">229, 229, 229</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
